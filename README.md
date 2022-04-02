@@ -2,7 +2,7 @@
  
 A repository filled with code wars challenges (katas). Currently in the top 4% of coders on the global leaderboard, Completed over 100+ katas, and currently complete 5 solutions every week.
 
-**Link to project:** https://www.codewars.com/users/ThomasAlanStevens
+**Link To Profile:** https://www.codewars.com/users/ThomasAlanStevens
 
 <img src="imgs/kataProgress.PNG">
 
@@ -12,7 +12,7 @@ A repository filled with code wars challenges (katas). Currently in the top 4% o
 <br></br>
 <img src="imgs/javascript-illustration.jpeg">
 
-The first thing I do to warm up my brain and introduce myself to new challenges is solving a challenge on Codewars! 
+One of the first things I do to warm-up my brain and constantly introduce myself to new challenges is solving a challenge on Codewars! 
 
 ## Optimizations
 
