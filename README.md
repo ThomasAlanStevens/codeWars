@@ -4,7 +4,7 @@ A repository filled with codewars challenges (katas). Currently in the top 6.5% 
 
 ## How It's Made:
 
-**Tech used:** <img src="javascript-illustration.jpeg">
+**Tech used:** <img src="imgs/javascript-illustration.jpeg">
 
 The first thing I do to warm up my brain and introduce myself to new challenges is solve a Codewar! 
 
