@@ -1,6 +1,6 @@
 # CodeWars Katas: [Profile Here](https://www.codewars.com/users/ThomasAlanStevens)
  
-A repository filled with codewars challenges (katas). Currently in the top 6.5% of coders on the global leaderboard, Completed over 100+ katas and complete 5 solutions every week. Starting in May of 2022, I began to track these katas using github!
+A repository filled with codewars challenges (katas). Currently in the top 5.5% of coders on the global leaderboard, Completed over 100+ katas and complete 5 solutions every week.
 
 ## How It's Made:
 
