@@ -3,3 +3,4 @@ function narcissistic(value) {
     return String(value).split('').reduce((total, num, i, arr) => total += num**arr.length, 0) == value ? true : false
   }
   
+  
