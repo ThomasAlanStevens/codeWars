@@ -1,6 +1,10 @@
-# CodeWars Katas: [Profile Here](https://www.codewars.com/users/ThomasAlanStevens)
+# Codewars Katas: [Profile Here](https://www.codewars.com/users/ThomasAlanStevens)
  
 A repository filled with code wars challenges (katas). Currently in the top 4% of coders on the global leaderboard, Completed over 100+ katas, and currently complete 5 solutions every week.
+
+**Link to project:** http://recruiters-love-seeing-live-demos.com/
+
+![alt tag](https://www.codewars.com/users/ThomasAlanStevens)
 
 ## How It's Made:
 
