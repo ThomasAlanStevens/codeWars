@@ -4,7 +4,7 @@ A repository filled with code wars challenges (katas). Currently in the top 4% o
 
 **Link to project:** https://www.codewars.com/users/ThomasAlanStevens
 
-![Codewars Profile](https://www.codewars.com/users/ThomasAlanStevens/1200/650)
+<img src="imgs/kataProgress.PNG>
 
 ## How It's Made:
 
